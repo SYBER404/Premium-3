@@ -1,72 +1,54 @@
+# ✭ ELITE CRACK
+#### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
+```
+Author:
+- Dapunta Khurayra X
+- Muhamad Rizal Fiansyah Id
 
-Terima Kasih Kepada !!
-
-Hamzah
-
-AnggaXD
-
-Yayan-XD
-
-Dapunta
-
-★★INFORMATION★★
------------------------------
-# Script Ini Menggunakan 2 Method Login
-
-
-# Login To
-
-- Token && Cookies
------------------------------
-
-# Methode Crack
-
-B-Api Facebook
-
-MBasic Facebook
-
-Free Facebook
------------------------------
-
-➡FITUR Script
-☞CRACK ID PUBLIC/FRIEND
-☞CRACK ID FOLLOWERS
-☞CRACK ID POST
-☞Get ID PUBLIC
-☞Get ID Followers
------------------------------
-#Perintah Script
-
-➡ pkg update
-
-➡ pkg upgrade
-
-➡ pkg install python2
-
-➡ pkg install git
-
-➡ pip install mechanize
-
-➡ pip install futures
-
-➡ pip install bs4
-
-➡ pip install ipaddress
-
-git clone https://github.com/Dicky-XD/Premium
-
-cd Premium
-
-Untuk Jalankan Script Bisa DiKetik :(To run the script, you can type:)
-
-python2 premium.py
-
------------------------------
-Untuk Stop Script Tekan : (To Stop Script Press :)
-
------------------------------
-*CTRL + Z
-
-*GUNAKAN DENAN BIJAK 
-
-@ ENJOY
+Terimakasih Kepada :
+- Angga Kurniawan - Yayan XD
+- Boy Hamzah      - Latip Harkat
+- Zacky Tricker   - Sutan Ubay
+- Rizky Dev       - Iqbal Dev
+- Aap Afandi      - Fallen
+- Rizky Leviathan - Hanifan
+```
+#### ⇨  Fitur Login
+```
+[✯] Login Cookies  
+[✯] Login Token  
+[✯] Cookies/Token Awet  
+```
+#### ⇨  Fitur Crack
+```
+[✯] Crack Dari Teman, Public, Followers, Likers    
+[✯] Crack Default/Manual Pass  
+[✯] Crack Metode Api, Mbasic, Free FB  
+[✯] Crack With TTL/DOB  
+```
+#### ⇨  Install Script Di Termux
+```
+$ termux-setup-storage  
+$ pkg update && upgrade  
+$ pkg install python  
+$ pkg install git  
+$ pip install bs4  
+$ pip install requests  
+$ pip install mechanize  
+$ pip install futures  
+$ rm -rf elite  
+$ git clone https://github.com/Dapunta/elite  
+```
+#### ⇨  Menjalankan Script
+```
+$ cd elite  
+$ git pull  
+$ python elite.py 
+```
+#### ⇨  Informasi
+```
+[!] Bedanya Metode Crack Apaan Ngab? Nih :
+✯ ---> API = Pake Metode Lama, Cracknya Cepet Tapi Gampang Kena Spam, Sebab Udah Diupdate Sama Pihak Facebook, Not Recommended
+✯ ---> Mbasic = Metode Lama Yang Masih Valid Sampe Sekarang, Cracknya Lumayan Lambat, Tapi Jarang Kena Spam, Makanya Recommended
+✯ ---> Free = Seperti Mbasic, Bedanya Ganti Tempat Login Aja, Cracknya Paling Lambat, Gak Kena Spam, Kemungkinan Dapet OK
+```
