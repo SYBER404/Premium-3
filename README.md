@@ -1,9 +1,8 @@
-# ✭ ELITE CRACK
-#### Dibuat Dengan ❤️ Oleh Dapunta & Rizal
+# ✭ Premium CRACK
+#### Gunakan Dengan Bijak
 ```
 Author:
-- Dapunta Khurayra X
-- Muhamad Rizal Fiansyah Id
+- Muhammad Dicky Wahyudi
 
 Terimakasih Kepada :
 - Angga Kurniawan - Yayan XD
@@ -36,14 +35,13 @@ $ pip install bs4
 $ pip install requests  
 $ pip install mechanize  
 $ pip install futures  
-$ rm -rf elite  
-$ git clone https://github.com/Dapunta/elite  
+$ pip install ipaddress  
+$ git clone https://github.com/Dicky-XD/Premium  
 ```
-#### ⇨  Menjalankan Script
+#### ⇨  Run Script
 ```
-$ cd elite  
-$ git pull  
-$ python elite.py 
+$ cd Premium  
+$ python premium.py 
 ```
 #### ⇨  Informasi
 ```
