@@ -9,12 +9,14 @@ Yayan-XD
 
 Dapunta
 
-★★INFORMATION SCRIPT★★
+★★INFORMATION★★
 -----------------------------
 # Script Ini Menggunakan 2 Method Login
 
 
-# Login Token && Cookies
+# Login To
+
+- Token && Cookies
 -----------------------------
 
 # Methode Crack
@@ -27,11 +29,11 @@ Free Facebook
 -----------------------------
 
 ➡FITUR Script
-
-CRACK ID PUBLIC/FRIEND
-CRACK ID FOLLOWERS
-CRACK ID POST
-
+☞CRACK ID PUBLIC/FRIEND
+☞CRACK ID FOLLOWERS
+☞CRACK ID POST
+☞Get ID PUBLIC
+☞Get ID Followers
 -----------------------------
 #Perintah Script
 
